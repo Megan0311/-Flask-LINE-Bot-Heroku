@@ -13,16 +13,16 @@
 2. 輸入專案名稱，這邊將會成為未來網址的一部分像是 https://xxxxxxx.herokuapp.com/
 3. 輸入在 LINE Developers 取得的 Access Token 和 CHANNEL_SECRET
 
-<img src="https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/blob/main/img/step1%20LINE-bot%20deploy_to_heroku.png" width="800px" height="auto">
+<img src="https://Megan0311/Flask-LINE-Bot-Heroku/main/img/step1%20LINE-bot%20deploy_to_heroku.png" width="800px" height="auto">
 
 然後等待 Heroku 建立部署，完成後會出現以下畫面，綠色勾勾就代表部署成功囉！
 
-<img src="https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/blob/main/img/step2%20LINE-bot%20deploy_to_heroku_success.png" width="800px" height="auto">
+<img src="Megan0311/Flask-LINE-Bot-Heroku/main/img/step2%20LINE-bot%20deploy_to_heroku_success.png" width="800px" height="auto">
 
 ### 二. 更新 LINE webhook
 將剛剛部署完後的 heroku 網址填入 LINE Developers 的 Webhook URL，就完成設定囉！
 
-<img src="https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/blob/main/img/step3%20LINE-bot%20depoly%20webhook%20settings.png" width="800px" height="auto">
+<img src="Megan0311/Flask-LINE-Bot-Heroku/main/img/step3%20LINE-bot%20depoly%20webhook%20settings.png" width="800px" height="auto">
 
 ### 三. 測試 LINE Bot 機器人
 這時候我們密機器人，如果出現 echo 的狀態，就代表部署成功囉！
